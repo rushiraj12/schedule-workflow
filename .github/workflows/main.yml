@@ -2,7 +2,7 @@ name: schedule-workflow
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "19 18 * * *"
 
 
 jobs:
